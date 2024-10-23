@@ -1,6 +1,6 @@
 <!--[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io) -->
  <h1 align="center">Hi 👋, I'm MOHAMMED EL HARCHI</h1>
-<h3 align="center">A passionate backend developer and data analyst from Morocco</h3>
+<h3 align="center">A passionate software engineering</h3>
 
 <p align="left"> <img src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="mel-harc" /> </p>
 
