@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mel-harc" alt="mel-harc" /></a> </p>
 
+- My portfolio https://mel-harc.github.io/
+
 - 📝 I regularly write articles on [https://medium.com/@mohammedelharchi822](https://medium.com/@mohammedelharchi822)
 
 - 📫 How to reach me **mel-harc@student.1337.ma**
